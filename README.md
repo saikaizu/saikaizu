@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm saipratama</h1>
 <h3 align="center">I'm student from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarwonozt&label=Profile%20views&color=0e75b6&style=flat" alt="jarwonozt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saipratama&label=Profile%20views&color=0e75b6&style=flat" alt="saipratama" /> </p>
 
 - 🔭 I’m currently study on [Universitas Pamulang](https://unpam.ac.id/)
 
-- 🌱 I’m currently learning **PHP, CODEIGNITER, MYSQL, LINUX, CPP**
+- 🌱 I’m currently learning **PHP, CodeIgniter, MYSQL, LINUX, CPP**
 
 - 👨‍💻 All of my projects are available at [on update](on update)
 
-- 💬 Ask me about **WINDOWS, PHP, WEB, LINUX**
+- 💬 Ask me about **Windows, PHP, WEB, LINUX**
 
 - ⚡ Fun fact **Still learning, Must working, Keep growing, and Always praying**
 
