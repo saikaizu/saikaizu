@@ -27,6 +27,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saipratama&" alt="saipratama" /></p>
 
+[![Watch the video](https://img.youtube.com/vi/gxTIr0o1GiE/maxresdefault.jpg)](https://youtu.be/gxTIr0o1GiE)
+
 
 <!---
 saipratama/saipratama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
