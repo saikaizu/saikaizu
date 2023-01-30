@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saipratama&" alt="saipratama" /></p>
 
-[![Watch the video](https://img.youtube.com/vi/gxTIr0o1GiE/maxresdefault.jpg)](https://youtu.be/FsKuu-0RUcM)
+[![Watch the video](https://img.youtube.com/vi/FsKuu-0RUcM/maxresdefault.jpg)](https://youtu.be/FsKuu-0RUcM)
 
 
 <!---
