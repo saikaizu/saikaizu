@@ -5,9 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saipratama&label=Profile%20views&color=0e75b6&style=flat" alt="saipratama" /> </p>
 
+<div align="center">
 - 🔭 I’m currently study on **Universitas Pamulang** </a> <a href="https://unpam.ac.id" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/107693463/192129168-ddfbcb96-bae5-43cc-8654-9ffdae78919e.png" alt="Universitas Pamulang" width="40" height="40"/> </a>
 
-<div align="center">
 - 🌱 I’m currently learning **PHP, CodeIgniter, MYSQL, LINUX, CPP**
 
 - 👨‍💻 All of my projects are available at [on update](on update)
