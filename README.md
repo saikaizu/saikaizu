@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Sai+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Vincent and Welcome to my Profile! animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Sai+and+Welcome+to+my+Profile!" align="middle" alt="Hi, I'm Sai and Welcome to my Profile! animated typed out" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm saipratama</h1>
 <h3 align="center">I'm student from Indonesia</h3>
@@ -29,6 +29,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saipratama&show_icons=true&locale=en" alt="saipratama" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saipratama&" alt="saipratama" /></p>
+
+<h1> See me code  </h1>
+<p align="left">
+<img height="200em"   src="code.gif" align="center" style="width: 5 height: 10" />
+<a href=#><img src="contributions.svg"></a>
+</p>
 
 [![Watch the video](https://img.youtube.com/vi/1dNkQoE76nY/maxresdefault.jpg)](https://youtu.be/1dNkQoE76nY)
 
