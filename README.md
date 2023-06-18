@@ -39,7 +39,7 @@
 <a href=#><img src="contributions.svg"></a>
 </p>
 
-[![Watch the video](https://img.youtube.com/vi/1dNkQoE76nY/maxresdefault.jpg)](https://youtu.be/1dNkQoE76nY)
+[![Watch the video](https://img.youtube.com/vi/uTAaFExLgwQ/maxresdefault.jpg)](https://youtu.be/uTAaFExLgwQ)
 
 
 <!---
