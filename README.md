@@ -8,9 +8,9 @@
 <div align="center">
  🔭 I’m currently study on **Universitas Pamulang** </a> <a href="https://unpam.ac.id" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/107693463/192129168-ddfbcb96-bae5-43cc-8654-9ffdae78919e.png" alt="Universitas Pamulang" width="40" height="40"/> </a>
 
- 🌱 I’m currently learning **PHP, CodeIgniter, MYSQL, LINUX, CPP**
+ 🌱 I’m currently learning **PHP, CodeIgniter, Laravel, MYSQL, LINUX, CPP**
 
- 👨‍💻 All of my projects are available at [on update](on update)
+ 👨‍💻 All of my projects are available <a href="https://github.com/saipratama/project-app">(on update)</a>
 
  💬 Ask me about **Windows, PHP, WEB, LINUX**
 
