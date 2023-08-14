@@ -10,7 +10,7 @@
 
  🌱 I’m currently learning **PHP, CodeIgniter, Laravel, MYSQL, LINUX, CPP**
 
- 👨‍💻 All of my projects are available <a href="https://github.com/saipratama/project-app">(on update)</a>
+ 👨‍💻 My new project "Laravel Project App" <a href="https://github.com/saipratama/project-app">(on update)</a>
 
  💬 Ask me about **Windows, PHP, WEB, LINUX**
 
