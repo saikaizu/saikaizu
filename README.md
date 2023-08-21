@@ -18,6 +18,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+ <div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sai-pratama-b0449b205" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/sai-pratama-b0449b205?trk=profile-badge">Sai Pratama</a></div>
+              
 <a href="https://www.linkedin.com/in/sai-pratama-b0449b205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saipratama" height="30" width="40" /></a>
 <a href="https://web.facebook.com/sai.pratama.503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saipratama.saipratama" height="30" width="40" /></a>
 </p>
