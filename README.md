@@ -29,9 +29,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikaizu)](https://github.com/saikaizu/saipratama)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikaizu&show_icons=true&locale=en" alt="saipratama" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikaizu&show_icons=true&locale=en" alt="saikaizu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saipratama&" alt="saipratama" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikaizu&" alt="saikaizu" /></p>
 
 <div align="center">
 <h1> See me code  </h1>
