@@ -84,8 +84,6 @@
     <img height="200em" src="code.gif" alt="See me code" style="width: 5; height: 10" />
     <a href=#><img src="contributions.svg" alt="Contributions"></a>
   </p>
-
-  <p>
-    [![Watch the video](https://img.youtube.com/vi/t_orDzVFWXY/maxresdefault.jpg)](https://youtu.be/t_orDzVFWXY)
-  </p>
+    [![Watch the video]
+    (https://img.youtube.com/vi/t_orDzVFWXY/maxresdefault.jpg)](https://youtu.be/t_orDzVFWXY)
 </div>
