@@ -1,30 +1,30 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi%2C+I’m+Sai+and+Welcome+to+my+Profile!+⚙️" align="middle" alt="Hi, I’m Sai and Welcome to my Profile! animated typed out" width="100%" direction="ltr"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Hi%2C+I’m+Sai+and+Welcome+to+my+Profile!+✨" align="middle" alt="Hi, I’m Sai and Welcome to my Profile! animated typed out" width="100%" direction="ltr"/>
 
 <div align="center">
   <h1>👋 I'm saipratama</h1>
-  <h3>💻 Student from Indonesia, diving into the tech world.</h3>
+  <h3>👨‍🎓 Student from Indonesia, building the future in code. 🚀</h3>
 </div>
 
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=saikaizu&label=Profile%20views&color=0e75b6&style=flat" alt="saipratama" />
+    <img src="https://komarev.com/ghpvc/?username=saikaizu&label=Profile%20views&color=00BFFF&style=flat" alt="saipratama" />
   </p>
 </div>
 
 ---
 
-### 🚀 What I'm Up To (a.k.a My Current Stack)
+### 🚀 **My Current Stack (What I'm Hacking On)**
 
 - 🔭 **Study:** Universitas Pamulang <a href="https://unpam.ac.id" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/107693463/192129168-ddfbcb96-bae5-43cc-8654-9ffdae78919e.png" alt="Universitas Pamulang" width="20" height="20"/> </a>
 - 🌱 **Learning:** Currently mastering **Laravel**, **Linux**, and **Cyber Security** fundamentals.
 - 👨‍💻 **Project:** My new project, "Laravel Project App" is **(on update)**.
   - [**Check the Repo**](https://github.com/saikaizu/project-app)
-- 💬 **Ask Me About:** Windows, PHP, WEB, or LINUX. Let's talk *coding*!
+- 💬 **Ask Me About:** Windows, PHP, WEB, or LINUX. Let's talk **data structures** and **network security**!
 - ⚡ **Fun Fact:** Still learning, Must working, Keep growing, and Always praying. (The ultimate *developer mantra*!)
 
 ---
 
-### ⚙️ My Dev Arsenal (Languages and Tools)
+### ⚙️ **Dev Arsenal: Tools & Languages**
 
 <div align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -50,25 +50,25 @@
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 **Code Metrics & Vibe**
 
 <div align="center">
   <p>
     <a href="https://github.com/saikaizu/saipratama">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikaizu&layout=compact&hide_title=true" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikaizu&layout=compact&hide_title=true&theme=radical" alt="Top Langs - Radical Theme" />
     </a>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=saikaizu&show_icons=true&locale=en&hide_title=true" alt="saikaizu" />
+    <img src="https://github-readme-stats.vercel.app/api?username=saikaizu&show_icons=true&locale=en&hide_title=true&theme=omni" alt="GitHub Stats - Omni Theme" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikaizu&theme=dark" alt="saikaizu" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikaizu&theme=omni" alt="GitHub Streak - Omni Theme" />
   </p>
 </div>
 
 ---
 
-### 📡 Connect & Vibe
+### 📡 **Connect & Vibe**
 
 <div align="center">
   <p>
@@ -84,6 +84,12 @@
     <img height="200em" src="code.gif" alt="See me code" style="width: 5; height: 10" />
     <a href=#><img src="contributions.svg" alt="Contributions"></a>
   </p>
-    [![Watch the video]
-    (https://img.youtube.com/vi/t_orDzVFWXY/maxresdefault.jpg)](https://youtu.be/t_orDzVFWXY)
+
+  <p>
+    <a href="http://www.youtube.com/watch?v=t_orDzVFWXY" target="_blank" rel="noreferrer">
+        <img src="https://img.youtube.com/vi/t_orDzVFWXY/maxresdefault.jpg" alt="Video: MERGE SORT | APA BENAR SESIMPEL ITU?!" style="max-width: 100%;">
+    </a>
+    <br/>
+    <small>_**MERGE SORT | APA BENAR SESIMPEL ITU?!**_</small>
+  </p>
 </div>
