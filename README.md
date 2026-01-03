@@ -1,95 +1,88 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Hi%2C+I’m+Sai+and+Welcome+to+my+Profile!+✨" align="middle" alt="Hi, I’m Sai and Welcome to my Profile! animated typed out" width="100%" direction="ltr"/>
-
 <div align="center">
-  <h1>👋 I'm saipratama</h1>
-  <h3>👨‍🎓 Student from Indonesia, building the future in code. 🚀</h3>
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Hi%2C+I’m+Sai+and+Welcome+to+my+Profile!+✨" align="middle" alt="Hi, I’m Sai and Welcome to my Profile!" width="100%"/>
 
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=saikaizu&label=Profile%20views&color=00BFFF&style=flat" alt="saipratama" />
-  </p>
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> I'm Sai Pratama</h1>
+  <p><b>👨‍🎓 Student @ Universitas Pamulang | Building the future, one semi-colon at a time. 🚀</b></p>
+
+  <img src="https://komarev.com/ghpvc/?username=saikaizu&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge&logo=github" alt="saipratama" />
 </div>
 
 ---
 
-### 🚀 **My Current Stack (What I'm Hacking On)**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> **STUFF I'M HACKING ON**
 
-- 🔭 **Study:** Universitas Pamulang <a href="https://unpam.ac.id" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/107693463/192129168-ddfbcb96-bae5-43cc-8654-9ffdae78919e.png" alt="Universitas Pamulang" width="20" height="20"/> </a>
-- 🌱 **Learning:** Currently mastering **Laravel**, **Linux**, and **Cyber Security** fundamentals.
-- 👨‍💻 **Project:** My new project, "Laravel Project App" is **(on update)**.
-  - [**Check the Repo**](https://github.com/saikaizu/project-app)
-- 💬 **Ask Me About:** Windows, PHP, WEB, or LINUX. Let's talk **data structures** and **network security**!
-- ⚡ **Fun Fact:** Still learning, Must working, Keep growing, and Always praying. (The ultimate *developer mantra*!)
+- 🏫 **Campus Life:** Pejuang gelar di **Universitas Pamulang** <a href="https://unpam.ac.id" target="_blank"> <img src="https://user-images.githubusercontent.com/107693463/192129168-ddfbcb96-bae5-43cc-8654-9ffdae78919e.png" width="15"/> </a>
+- 🌱 **Skill Path:** Lagi dalam misi naklukin **Laravel**, **Linux (Tux for life!)**, dan ilmu **Cyber Security**.
+- 👨‍💻 **Current Project:** [**Laravel Project App**](https://github.com/saikaizu/project-app) — *Masih digodok, stay tuned!* 🛠️
+- 💬 **Nanya-nanya:** Gas lah tanya soal Windows, PHP, Web, atau Linux. Gw suka ngobrolin **Data Structures** & **Network Security** sambil ngopi.
+- ⚡ **Developer Mantra:** *Still learning, Must working, Keep growing, and Always praying.* (AMINN! 🙏)
 
 ---
 
-### ⚙️ **Dev Arsenal: Tools & Languages**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> **MY DEV ARSENAL**
 
 <div align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="assets/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a> 
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="assets/Breezeicons-apps-48-sublime-text.svg" alt="sublimetext" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"> <img src="assets/Linux_Mint_logo_without_wordmark.svg" alt="linuxmint" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img src="assets/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="assets/NewTux.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> <img src="assets/PhpMyAdmin_logo.svg" alt="phpmyadmin" width="60" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank" rel="noreferrer"> <img src="assets/windows-11-icon-seeklogo.com-2.svg" alt="windows11" width="40" height="40"/> </a> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux_Mint-69B53F?style=for-the-badge&logo=linux-mint&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
 ---
 
-### 📊 **Code Metrics & Vibe**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> **CODE METRICS & VIBES**
 
 <div align="center">
-  <p>
-    <a href="https://github.com/saikaizu/saipratama">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikaizu&layout=compact&hide_title=true&theme=radical" alt="Top Langs - Radical Theme" />
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikaizu&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=saikaizu&show_icons=true&theme=omni&hide_border=true" alt="GitHub Stats" /></td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikaizu&theme=omni&hide_border=true" alt="Streak Stats" width="100%" />
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" /> **CONNECT WITH ME**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sai-pratama-b0449b205" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/sai.pratama.503/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <p align="center">
+    <br>
+    <a href="https://open.spotify.com/user/" target="_blank">
+      <img src="https://spotify-live.vercel.app/api/spotify" alt="Listening on Spotify" />
     </a>
   </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=saikaizu&show_icons=true&locale=en&hide_title=true&theme=omni" alt="GitHub Stats - Omni Theme" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikaizu&theme=omni" alt="GitHub Streak - Omni Theme" />
-  </p>
 </div>
 
----
+<div align="center">
+  <br>
+  <a href="https://www.youtube.com/watch?v=t_orDzVFWXY" target="_blank">
+    <img src="https://img.youtube.com/vi/t_orDzVFWXY/maxresdefault.jpg" width="400" style="border-radius: 10px; border: 2px solid #FFD700;" />
+    <br>
+    <b>🍿 Nonton Kuy: MERGE SORT | APA BENAR SESIMPEL ITU?!</b>
+  </a>
+</div>
 
-### 📡 **Connect & Vibe**
+<br>
 
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/sai-pratama-b0449b205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saipratama" height="30" width="40" /></a>
-    <a href="https://web.facebook.com/sai.pratama.503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saipratama.saipratama" height="30" width="40" /></a>
-  </p>
-  
-  <p>
-    <a href="https://open.spotify.com/user/" target="blank"><img src="https://spotify-live.vercel.app/api/spotify" alt="Spotify" /></a>
-  </p>
-  
-  <p>
-    <img height="200em" src="code.gif" alt="See me code" style="width: 5; height: 10" />
-    <a href=#><img src="contributions.svg" alt="Contributions"></a>
-  </p>
-
-  <p>
-    <a href="http://www.youtube.com/watch?v=t_orDzVFWXY" target="_blank" rel="noreferrer">
-        <img src="https://img.youtube.com/vi/t_orDzVFWXY/maxresdefault.jpg" alt="Video: MERGE SORT | APA BENAR SESIMPEL ITU?!" style="max-width: 100%;">
-    </a>
-    <br/>
-    <small>_**MERGE SORT | APA BENAR SESIMPEL ITU?!**_</small>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%"/>
 </div>
