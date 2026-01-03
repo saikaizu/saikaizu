@@ -43,14 +43,17 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> **CODE METRICS & VIBES**
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikaizu&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=saikaizu&show_icons=true&theme=omni&hide_border=true" alt="GitHub Stats" /></td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikaizu&theme=omni&hide_border=true" alt="Streak Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikaizu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikaizu&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  
+  <br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=saikaizu&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
+
+---
 
 ---
 
