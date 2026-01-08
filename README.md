@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Sai%20Pratama%20✨&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=900&lines=Fullstack+Developer+Wannabe;Cyber+Security+Enthusiast;Linux+Lover+(Tux+Inside!);Building+the+future+with+Laravel+🚀" alt="Typing SVG" />
+  <img src="typing.svg" width="900" alt="Typing SVG" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=saikaizu&label=VISITOR+COUNT&color=FF00FF&style=for-the-badge&logo=github" alt="saikaizu" />
@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" /> **STUFF I'M HACKING ON**
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4ZzB0bmR0ZzZ4bmV4ZzB0bmR0ZzZ4bmV4ZzB0bmR0ZzZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iY_ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4ZzB0bmR0ZzZ4bmV4ZzB0bmR0ZzZ4bmV4ZzB0bmR0ZzZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
 - 🏫 **Campus Life:** Pejuang gelar di **Universitas Pamulang** <a href="https://unpam.ac.id" target="_blank"> <img src="https://user-images.githubusercontent.com/107693463/192129168-ddfbcb96-bae5-43cc-8654-9ffdae78919e.png" width="15"/> </a>
 - 🌱 **Skill Path:** Lagi dalam misi naklukin **Laravel**, **Linux**, dan ilmu **Cyber Security**.
@@ -56,32 +56,3 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sai-pratama-b0449b205" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://web.facebook.com/sai.pratama.503/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:sai.pratama@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <p align="center">
-    <br>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=saikaizu&cover_image=true&theme=novatorem" alt="Spotify" />
-  </p>
-</div>
-
-<div align="center">
-  <br>
-  <a href="https://www.youtube.com/watch?v=t_orDzVFWXY" target="_blank">
-    <img src="https://img.youtube.com/vi/t_orDzVFWXY/maxresdefault.jpg" width="450" style="border-radius: 15px; border: 3px solid #7952B3;" />
-    <br>
-    <b>🍿 Nonton Kuy: MERGE SORT | APA BENAR SESIMPEL ITU?!</b>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
-</div>
