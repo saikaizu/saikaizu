@@ -44,6 +44,33 @@
 ---
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="35" /> **CONNECT WITH ME**
-
 <div align="center">
   <a href="https://www.linkedin.com/in/sai-pratama-b0449b205" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/sai.pratama.503/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <p align="center">
+    <br>
+    <a href="https://open.spotify.com/user/" target="_blank">
+      <img src="https://spotify-live.vercel.app/api/spotify" alt="Listening on Spotify" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://www.youtube.com/watch?v=t_orDzVFWXY" target="_blank">
+    <img src="https://img.youtube.com/vi/t_orDzVFWXY/maxresdefault.jpg" width="400" style="border-radius: 10px; border: 2px solid #FFD700;" />
+    <br>
+    <b>🍿 Nonton Kuy: MERGE SORT | APA BENAR SESIMPEL ITU?!</b>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%"/>
+</div>
