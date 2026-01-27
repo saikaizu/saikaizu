@@ -41,6 +41,8 @@
   <img src="contributions.svg" alt="Snake Animation" width="100%" />
 </div>
 ---
+---
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> **CODE METRICS & VIBES**
 
 <div align="center">
@@ -50,12 +52,14 @@
   
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikaizu&theme=tokyonight&hide_border=false&border_radius=10&fire=DD2727" alt="Streak Stats" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikaizu&theme=black-ice&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" width="80%" />
 
   <br><br>
 
   <img src="https://raw.githubusercontent.com/saikaizu/saikaizu/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
+
+---
 
 ---
 
@@ -67,13 +71,6 @@
   <a href="https://web.facebook.com/sai.pratama.503/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  
-  <p align="center">
-    <br>
-    <a href="https://open.spotify.com/user/" target="_blank">
-      <img src="https://spotify-live.vercel.app/api/spotify" alt="Listening on Spotify" />
-    </a>
-  </p>
 </div>
 
 <div align="center">
