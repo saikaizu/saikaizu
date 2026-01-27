@@ -37,24 +37,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikaizu&layout=compact&theme=dracula&hide_border=false&border_radius=10" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=saikaizu&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Stats" />
   <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikaizu&theme=tokyonight&area=true&hide_border=false&border_radius=10" alt="Activity Graph" width="100%" />
   <img src="contributions.svg" alt="Snake Animation" width="100%" />
-</div>
----
----
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> **CODE METRICS & VIBES**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikaizu&layout=compact&theme=dracula&hide_border=false&border_radius=10" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=saikaizu&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Stats" />
-  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikaizu&theme=tokyonight&area=true&hide_border=false&border_radius=10" alt="Activity Graph" width="100%" />
-  <br>
-  <img src="contributions.svg" alt="Snake Animation" width="100%" />
 </div>
-
 ---
+
 ---
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="35" /> **CONNECT WITH ME**
