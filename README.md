@@ -47,20 +47,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikaizu&layout=compact&theme=dracula&hide_border=false&border_radius=10" alt="Top Langs" />
-  
   <img src="https://github-readme-stats.vercel.app/api?username=saikaizu&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Stats" />
-  
   <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikaizu&theme=black-ice&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" width="80%" />
-
-  <br><br>
-
-  <img src="https://raw.githubusercontent.com/saikaizu/saikaizu/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikaizu&theme=tokyonight&area=true&hide_border=false&border_radius=10" alt="Activity Graph" width="100%" />
+  <br>
+  <img src="contributions.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
-
 ---
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="35" /> **CONNECT WITH ME**
